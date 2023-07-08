@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/%3Cyour-repo-name%3E/static/css/main.8a4570fe.css",
-    "main.js": "/%3Cyour-repo-name%3E/static/js/main.361a07c4.js",
-    "static/js/787.aa0cfba6.chunk.js": "/%3Cyour-repo-name%3E/static/js/787.aa0cfba6.chunk.js",
-    "index.html": "/%3Cyour-repo-name%3E/index.html",
-    "main.8a4570fe.css.map": "/%3Cyour-repo-name%3E/static/css/main.8a4570fe.css.map",
-    "main.361a07c4.js.map": "/%3Cyour-repo-name%3E/static/js/main.361a07c4.js.map",
-    "787.aa0cfba6.chunk.js.map": "/%3Cyour-repo-name%3E/static/js/787.aa0cfba6.chunk.js.map"
+    "main.css": "/FranchiseWebsite/static/css/main.8a4570fe.css",
+    "main.js": "/FranchiseWebsite/static/js/main.dfc3b252.js",
+    "static/js/787.aa0cfba6.chunk.js": "/FranchiseWebsite/static/js/787.aa0cfba6.chunk.js",
+    "index.html": "/FranchiseWebsite/index.html",
+    "main.8a4570fe.css.map": "/FranchiseWebsite/static/css/main.8a4570fe.css.map",
+    "main.dfc3b252.js.map": "/FranchiseWebsite/static/js/main.dfc3b252.js.map",
+    "787.aa0cfba6.chunk.js.map": "/FranchiseWebsite/static/js/787.aa0cfba6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8a4570fe.css",
-    "static/js/main.361a07c4.js"
+    "static/js/main.dfc3b252.js"
   ]
 }
