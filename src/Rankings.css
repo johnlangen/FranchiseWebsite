@@ -1,0 +1,18 @@
+.rankings-container {
+    border: 2px solid white;
+    border-radius: 15px;
+    padding: 20px;
+    padding-left: 50px; /* Increase this value to move content more towards the center */
+    margin: 0 auto;
+    width: 70%; /* Adjust this to control the width of your box */
+    background-color: white;
+    color: black;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Ranking.css */
+
+.score {
+    font-size: 20px;
+  }
+  

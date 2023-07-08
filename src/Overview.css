@@ -1,0 +1,41 @@
+.overview-container {
+    background-color: white;
+    color: black;
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 15px;
+    border: 2px solid #474E5C;
+    width: 70%;
+  }
+  
+  .grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    align-items: center;
+  }
+  
+/* Overview.css */
+  .grid-header {
+    font-weight: bold;
+    color: black; /* Change color to black */
+    background-color: transparent; /* Remove background color */
+    font-size: 1.2em;  /* Change the font size */
+    text-align: center; /* Center the text */
+  }
+  
+  .grid-item {
+    padding: 10px;
+    text-align: center;
+    border: none;  /* Remove the border */
+  }
+  
+  .grid-row:nth-child(odd) {
+    background-color: #f3f3f3;
+  }
+  
+  .grid-row:nth-child(even) {
+    background-color: #ddd;
+  }
+  
+  

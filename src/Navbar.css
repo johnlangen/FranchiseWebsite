@@ -1,0 +1,29 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #fff;
+  }
+  
+  .navbar-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    margin: auto;
+  }
+  
+  .navbar-title {
+    color: #333;
+    text-decoration: none;
+    font-size: 1.5em;
+  }
+  
+  .navbar-menu a {
+    color: #333;
+    text-decoration: none;
+    margin-left: 20px;
+  }
+  

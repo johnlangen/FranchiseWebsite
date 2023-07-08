@@ -1,0 +1,17 @@
+.ranking-container {
+    margin: 50px 0; /* Adds 20px of space above and below each ranking */
+  }
+
+
+  .ranking-container p {
+    margin-bottom: 20px; /* Adjust this to get the desired spacing */
+  }
+  
+  .bold-text {
+    font-weight: bold;
+  }
+  
+  .ranking-score {
+    font-size: 24px; /* Or any other size you find appropriate */
+  }
+  
