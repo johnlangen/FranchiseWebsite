@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.1bde1188.css",
+    "main.css": "/static/css/main.9aa1c001.css",
     "main.js": "/static/js/main.ee13b76e.js",
     "static/js/787.aa0cfba6.chunk.js": "/static/js/787.aa0cfba6.chunk.js",
     "static/media/Woodhouse.png": "/static/media/Woodhouse.7bbe80db595ffa786f6e.png",
@@ -12,14 +12,13 @@
     "static/media/Massage_Envy.png": "/static/media/Massage_Envy.62e6aff51b41b7245e86.png",
     "static/media/MassageLuxe.png": "/static/media/MassageLuxe.6ee75a811ed62905b382.png",
     "static/media/Spavia.png": "/static/media/Spavia.ecf25ebc0da0437daaf1.png",
-    "static/media/leafs.png": "/static/media/leafs.64082f0e7470fb736d9e.png",
     "index.html": "/index.html",
-    "main.1bde1188.css.map": "/static/css/main.1bde1188.css.map",
+    "main.9aa1c001.css.map": "/static/css/main.9aa1c001.css.map",
     "main.ee13b76e.js.map": "/static/js/main.ee13b76e.js.map",
     "787.aa0cfba6.chunk.js.map": "/static/js/787.aa0cfba6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1bde1188.css",
+    "static/css/main.9aa1c001.css",
     "static/js/main.ee13b76e.js"
   ]
 }
