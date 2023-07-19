@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9aa1c001.css",
-    "main.js": "/static/js/main.ee13b76e.js",
+    "main.css": "/static/css/main.a4357f74.css",
+    "main.js": "/static/js/main.ffa16915.js",
     "static/js/787.aa0cfba6.chunk.js": "/static/js/787.aa0cfba6.chunk.js",
     "static/media/Woodhouse.png": "/static/media/Woodhouse.7bbe80db595ffa786f6e.png",
     "static/media/MassageHeights.png": "/static/media/MassageHeights.bb9ff9ab4ff35e2d9b5c.png",
@@ -13,12 +13,12 @@
     "static/media/MassageLuxe.png": "/static/media/MassageLuxe.6ee75a811ed62905b382.png",
     "static/media/Spavia.png": "/static/media/Spavia.ecf25ebc0da0437daaf1.png",
     "index.html": "/index.html",
-    "main.9aa1c001.css.map": "/static/css/main.9aa1c001.css.map",
-    "main.ee13b76e.js.map": "/static/js/main.ee13b76e.js.map",
+    "main.a4357f74.css.map": "/static/css/main.a4357f74.css.map",
+    "main.ffa16915.js.map": "/static/js/main.ffa16915.js.map",
     "787.aa0cfba6.chunk.js.map": "/static/js/787.aa0cfba6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9aa1c001.css",
-    "static/js/main.ee13b76e.js"
+    "static/css/main.a4357f74.css",
+    "static/js/main.ffa16915.js"
   ]
 }
